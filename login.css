@@ -22,7 +22,7 @@ width:100%;
   font-family: 'FontAwesome', sans-serif;
 }
 
-/* ---------- GENERAL ---------- */
+/* ---------- - GENERAL ---------- */
 
 * {
   box-sizing: border-box;
@@ -134,7 +134,7 @@ fieldset{
 	color: #000;
 	margin-bottom: 1em;
 	padding: 0 16px;
-	width: 200px;
+	width: 199px;
 }
 
 #login form input[type="submit"] {
